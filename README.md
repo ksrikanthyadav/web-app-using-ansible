@@ -5,7 +5,7 @@ This web app is developed using ansible automation.
 1. Deploy the servers : using AWS public cloud
     web-servers : 2
     Database-servers : 1
-2. Install the necessary dependencies
+2. Install the necessary dependencies [ python related for Flask & mysql ]
 3. Install the application softwares
     web-servers : Flask
     Database    : MySql DB
